@@ -5,8 +5,11 @@ This repo contains some of the most asked & standard programming questions and s
 Below is the list with references to problem and explanation and to solution code.
 
 ## Dynamic programming
-Problem & Explanation -> [Longest Common Subsequence](DynamicProgramming/LongestCommonSubsequence.md)   
+1. Problem & Explanation -> [Longest Common Subsequence](DynamicProgramming/LongestCommonSubsequence.md)   
 Solution Code -> [Solution](DynamicProgramming/LongestCommonSubsequence.cs)  
+
+2. problem & Explanation -> [Edit Distance](DynamicProgramming/EditDistance/ProblemAndExplanation.md)  
+Solution Code -> [Solution](DynamicProgramming/EditDistance/Solution.cs)
 
 ## Top Leet Code Questions 
 1. Problem & Explanation -> [TwoSum](TopLeetCode/TwoSum/ProblemAndExplanation.md)   
